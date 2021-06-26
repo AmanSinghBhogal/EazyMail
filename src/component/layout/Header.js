@@ -8,7 +8,7 @@ function Header() {
                 <div>
                     <MenuIcon/>
                 </div>
-                <img src='\imgs/EazyMail.png' alt="Fuck This"></img>
+                <img src='https://raw.githubusercontent.com/AmanSinghBhogal/EazyMail/master/src/component/imgs/EazyMail.png' alt="Fuck This"></img>
             </LogoWrapper>
         </Wrapper>
     )
