@@ -36,7 +36,7 @@ function Header() {
 export default Header
 const Wrapper = styled.div`
     display: grid;
-    grid-template-columns: 20% auto 20%;
+    grid-template-columns: minmax(180px,20%) auto 20%;
     border-bottom: 1px solid lightgrey;
     height: 10vh;
     align-items: center;
@@ -54,8 +54,7 @@ const Logo = styled.div`
     display: flex;
     img{
         height: 10vh;
-        // min-width: 120px;
-        width:15vw;
+        max-width:150px;
     }
 `
 const SearchWrapper = styled.div`

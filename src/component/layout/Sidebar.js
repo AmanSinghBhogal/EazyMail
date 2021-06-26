@@ -23,7 +23,7 @@ export default Sidebar
 
 const Wrapper = styled.div`
     border-right: 1px solid lightgrey;
-    height: 100vh;
+    height: 89vh;
 `
 const ComposeWrapper = styled.div`
     display: grid;
@@ -34,7 +34,7 @@ const SideButtonWrapper = styled.div`
 `
 const SidebarButtonItem = styled.div`
     display: grid;
-    grid-template-columns: 18% auto;
+    grid-template-columns: minmax(25px,30px) auto;
     color: gray;
     padding: 5px 25px;
     cursor: pointer;
