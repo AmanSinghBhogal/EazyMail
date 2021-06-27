@@ -4,7 +4,7 @@ import Checkbox from '@material-ui/core/Checkbox';
 import RefreshIcon from '@material-ui/icons/Refresh';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import IconButton from '@material-ui/core/IconButton';
-import { emailData } from '../../temp/Emaildata';
+import { emailData } from '../../tem/Emaildata';
 import EmailItem from '../EmailItem/EmailItem';
 const EmailView = () => {
     return (
