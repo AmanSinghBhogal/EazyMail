@@ -1,7 +1,7 @@
 # EazyMail
 
 ## Deployment:
-    The web app is Deployed on heroku at: https://eazymail.herokuapp.com/
+    The web app is Deployed on heroku at: (https://eazymail.herokuapp.com/)
 
 ## Running Locally:
     Note: you need to have Node Js installed in your local pc.
