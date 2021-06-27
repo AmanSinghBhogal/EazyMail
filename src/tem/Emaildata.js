@@ -19,7 +19,7 @@ export const emailData = [
         subject: 'Hello',
         message: 'Sup?',
         received: '14:30',
-        read: true
+        read: false
     },
     {
         starred: true,

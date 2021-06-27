@@ -39,7 +39,13 @@ const Wrapper = styled.div`
     align-items: center;
     grid-template-columns: min-content min-content 150px auto 50px;
     gap: 10px;
+    cursor: pointer;
     div{
         display: flex;
+    }
+
+    .unread{
+        color: black;
+        font-weight: bolder;
     }
 `
