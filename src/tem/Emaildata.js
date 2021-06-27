@@ -1,8 +1,8 @@
 export const emailData = [
     {
         starred: true,
-        from: 'Aman',
-        senderemail: 'Aman@gmail.com',
+        from: 'Abc',
+        senderemail: 'abc@gmail.com',
         cc: null,
         bcc: null,
         subject: 'Hello',
@@ -12,8 +12,8 @@ export const emailData = [
     },
     {
         starred: false,
-        from: 'Jayati Raval',
-        senderemail: 'jayatiraval14@gmail.com',
+        from: 'PQR',
+        senderemail: 'pqr@gmail.com',
         cc: null,
         bcc: null,
         subject: 'Hello',
@@ -23,8 +23,8 @@ export const emailData = [
     },
     {
         starred: true,
-        from: 'Nibbi',
-        senderemail: 'nibbi@gmail.com',
+        from: 'XYZ',
+        senderemail: 'xyz@gmail.com',
         cc: null,
         bcc: null,
         subject: 'Hello',
